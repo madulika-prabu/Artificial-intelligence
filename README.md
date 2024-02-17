@@ -5,7 +5,7 @@ This repository contains various algorithms and problem-solving techniques commo
 ## Contents
 
 1. **Search Algorithms**
-   - [Breadth-First Search (BFS)]
+   - [Breadth-First Search (BFS)](https://github.com/madulika-prabu/Artificial-intelligence/blob/main/1_BFS.ipynb)
    - [Depth-First Search (DFS)]
    - [Uniform Cost Search (UCS)]
    - [Greedy Best-First Search (GBFS)]
